@@ -1,0 +1,17 @@
+
+{
+  "name": "helpdesk",
+  "version": "1.0.0",
+  "description": "HelpDesk - Support made simple. A Discord ticket bot using Components V2.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.0",
+    "dotenv": "^16.4.7"
+  }
+}
