@@ -4,7 +4,7 @@ Simple, professional ticket management for Discord.
 
 HelpDesk helps Discord communities handle support requests through an organised, easy-to-use ticket system.
 
-# Features
+**Features**
 
 - Customisable ticket panels
 - Private support channels
